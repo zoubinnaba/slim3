@@ -1,0 +1,12 @@
+{
+    "name": "pangraf/slim3",
+    "authors": [
+        {
+            "name": "zoubinnaba",
+            "email": "emmanuelzoubinnaba@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.12"
+    }
+}
